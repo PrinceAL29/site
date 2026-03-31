@@ -47,10 +47,6 @@ body::after {
   margin-bottom: 6px;
 }
 
-.prompt {
-  margin-right: 6px;
-}
-
 input {
   background: transparent;
   border: none;
@@ -58,7 +54,8 @@ input {
   font-family: inherit;
   outline: none;
   width: 80%;
-  text-decoration: none
+  text-decoration: none;
+  font-size: medium;
 }
 
 .cmd {
